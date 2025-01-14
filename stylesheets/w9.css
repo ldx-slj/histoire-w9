@@ -1,0 +1,20 @@
+h1
+	{
+		text-align: center;
+		background-color: purple;
+    font-family: arial;
+	}
+	h2
+	{
+		font-family: arial;
+		font-style: normal;
+		color : black;
+	}
+  img {
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+  
+body { background-image: url("https://static.vecteezy.com/ti/photos-gratuite/p2/3841219-fond-degrade-violet-et-rose-gratuit-photo.jpg")}
